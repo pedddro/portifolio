@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Github",
+        "color": "black",
+        "icon": "github-circle",
+        "url": "https://github.com/pedddro/"
+	},
+    {
+        "name": "Dribbble",
+        "color": "pink",
+        "icon": "dribbble",
+        "url": "https://dribbble.com/pedddro"
+	},
+    {
+        "name": "Transifex",
+        "color": "blue",
+        "icon": "google-translate",
+        "url": "https://www.transifex.com/user/profile/pedrodornelles/"
+	},
+    {
+        "name": "Codepen",
+        "color": "black",
+        "icon": "codepen",
+        "url": "https://codepen.io/pedro_"
+	}
+]
