@@ -51,6 +51,9 @@ a {
 
 .nav #contactButton {
     margin: auto;
+    color: white;
+    background: orange!important;
+    border: orange;
 }
 
 /* Social Links */
