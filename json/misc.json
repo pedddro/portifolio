@@ -6,6 +6,21 @@
         "image": "images/lipov5landing.png",
         "link": "https://pedddro.github.io/portifolio/images/lipov5.png"
 	   },
+    
+        {
+        "name": "Ecommerce Web App UI",
+        "description": "Design de landing page mobile para ecommerce como parte de um concurso freelancer",
+        "image": "images/mixtiles-webapp.png",
+        "link": "https://pedddro.github.io/portifolio/images/mixtiles-webapp.png"
+	   },
+    
+    {
+        "name": "Loan App UI",
+        "description": "Design de landing page mobile como parte de um concurso freelancer",
+        "image": "images/q-loans-final.png",
+        "link": "https://pedddro.github.io/portifolio/images/q-loans-final.png"
+	   },
+    
     {
         "name": "WIP - Ecommerce Landing Page",
         "description": "Design de landing page responsiva para ecommerce",

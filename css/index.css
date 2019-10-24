@@ -278,3 +278,16 @@ a {
 .darkmode-layer, .darkmode-toggle {
   z-index: 500;
 }
+li {
+    margin: 0.5em;
+}
+
+
+
+small {
+    font-size:xx-small;
+}
+
+.x-small {
+   font-size: small;
+}

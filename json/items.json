@@ -1,7 +1,7 @@
 [
     {
         "name": "Design Responsivo de um App(Desktop, Mobile e Tablet)",
-        "description": "Design de um app usando material design para Desktop, Tablet e Mobile. Ao todos 69 telas-23 cada tamanho- diferentementes optimizadas para o conteúdo usando material design como referência dos objetos.</br><a href='https://projects.invisionapp.com/prototype/ck19j98ik0047ug01ze8gwp55/play'/>  </br>Design Mobile -> </a> </br><a href='https://projects.invisionapp.com/prototype/ck19kj495004eug01ymeobrcb/play'/> Design Tablet -> </a> </br><a href='https://projects.invisionapp.com/prototype/ck19ljk920037vm01f38ew4l5/play'/> Design Desktop -> </a> </br><a href='https://www.figma.com/file/JuHghRFVNrV5kmHR10zSin/Untitled?node-id=0%3A1'/> </br> Todo o projeto -> </a>",
+        "description": "Design de um app usando material design para Desktop, Tablet e Mobile. Ao todos 69 telas-23 cada tamanho- diferentementes optimizadas para o conteúdo usando material design como referência.</br><a href='https://projects.invisionapp.com/prototype/ck19j98ik0047ug01ze8gwp55/play'/>  </br>Design Mobile -> </a> </br><a href='https://projects.invisionapp.com/prototype/ck19kj495004eug01ymeobrcb/play'/> Design Tablet -> </a> </br><a href='https://projects.invisionapp.com/prototype/ck19ljk920037vm01f38ew4l5/play'/> Design Desktop -> </a> </br><a href='https://www.figma.com/file/JuHghRFVNrV5kmHR10zSin/Untitled?node-id=0%3A1'/> </br> Todo o projeto -> </a>",
         "image": "images/Design-for-generic-community–v2.png",
         "link": "https://pedddro.github.io/portifolio/images/Design-for-generic-community.png"
 	   },
@@ -53,10 +53,17 @@
 	   },
 
     {
-        "name": "WIP - Website Design",
+        "name": "Website Design",
         "description": "Design de uma landing page de uma rede de taxi alemã como parte de um concurso freelancer",
         "image": "images/germantaxi–landing.png",
         "link": "https://pedddro.github.io/portifolio/images/germantaxi.png"
+	   },
+    
+        {
+        "name": "Sports App Re-Design",
+        "description": "Re-Design de um app de esporte como parte de um concurso freelancer",
+        "image": "images/Sports-app-ui–capa.png",
+        "link": "https://pedddro.github.io/portifolio/images/sports-app-ui.png"
 	   },
 
     {
@@ -65,13 +72,14 @@
         "image": "images/SamsungParts-landing.png",
         "link": "https://pedddro.github.io/portifolio/images/SamsungParts.png"
 	   },
-
+    
     {
         "name": "Website Design",
         "description": "Design de um website como parte de um concurso freelancer",
         "image": "images/cbdoil1.png",
         "link": "https://pedddro.github.io/portifolio/images/cbdoil.png"
 	   },
+
     {
         "name": "Website Design",
         "description": "WIP - Design para um site de jardim de infância/escola primária.",
