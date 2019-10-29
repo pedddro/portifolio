@@ -291,3 +291,11 @@ small {
 .x-small {
    font-size: small;
 }
+
+.badge {
+    color: white!important;
+}
+
+.black {
+    color: black!important;
+}

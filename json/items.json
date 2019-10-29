@@ -6,6 +6,12 @@
         "link": "https://pedddro.github.io/portifolio/images/Design-for-generic-community.png"
 	   },
     {
+        "name": "Design da página principal de uma empresa",
+        "description": "Design de um concurso de redesign da página principal do website,;mobile e desktop",
+        "image": "images/capa-portifolio.png",
+        "link": "https://mockupr.com/mu/rtyc2606/big-fishy"
+	   },
+    {
         "name": "Redesign da página principal de uma empresa",
         "description": "Design de um concurso de redesign da página principal do website,;mobile e desktop",
         "image": "images/twohatdesign.png",
@@ -37,6 +43,13 @@
         "image": "images/cryptoexchange.png",
         "link": "https://mockupr.com/mu/purc1688/crypto-exchange-mockup"
 	   },
+    
+ {
+        "name": "Nutritionist WebApp Design",
+        "description": "Design de um web app, como parte de um concurso freelancer",
+        "image": "images/nutritionist-app.png",
+        "link": "https://pedddro.github.io/portifolio/images/nutritionist-app.png"
+	   },    
 
     {
         "name": "Material Design Expenses App Design",
