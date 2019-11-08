@@ -24,21 +24,8 @@
         "image": "images/dating-app-idea-iPhoneX-XS–v3(1).png",
         "link": "https://pedddro.github.io/portifolio/images/dating-app-idea-iPhoneX-XS–v3(2).png"
 	   },
-    {
-        "name": "WIP - Website Design + Code",
-        "description": "Design e código de um site de uma agência digital como parte de um concurso freelancer",
-        "image": "images/shriffle.png",
-        "link": "https://pedddro.github.io/portifolio/images/shrifflept1.png"
-	   },
-    {
-        "name": "WIP - Website Design",
-        "description": "Design de uma landing page de uma rede de transporte como parte de um concurso freelancer",
-        "image": "images/king_transportation.png",
-        "link": "https://mockupr.com/mu/lptq3147/king-transportation"
-	   },
-
-    {
-        "name": "Crypto Exchange Website Design",
+        {
+        "name": "Crypto Exchange LP Design",
         "description": "Design de uma landing page de uma exchange crypto como parte de um concurso freelancer",
         "image": "images/cryptoexchange.png",
         "link": "https://mockupr.com/mu/purc1688/crypto-exchange-mockup"
@@ -49,7 +36,7 @@
         "description": "Design de um web app, como parte de um concurso freelancer",
         "image": "images/nutritionist-app.png",
         "link": "https://pedddro.github.io/portifolio/images/nutritionist-app.png"
-	   },    
+	   },
 
     {
         "name": "Material Design Expenses App Design",
@@ -59,14 +46,14 @@
 	   },
 
     {
-        "name": "Website Design",
+        "name": "LP Design",
         "description": "Design de uma landing page de um site que transforma pdf em word",
         "image": "images/pdf2word.io–landing.png",
         "link": "https://pedddro.github.io/portifolio/images/pdf2word.io.png"
 	   },
 
     {
-        "name": "Website Design",
+        "name": "LP Design",
         "description": "Design de uma landing page de uma rede de taxi alemã como parte de um concurso freelancer",
         "image": "images/germantaxi–landing.png",
         "link": "https://pedddro.github.io/portifolio/images/germantaxi.png"
@@ -80,45 +67,11 @@
 	   },
 
     {
-        "name": "Website Design",
+        "name": "LP Design",
         "description": "Design de um website como parte de um concurso freelancer",
         "image": "images/SamsungParts-landing.png",
         "link": "https://pedddro.github.io/portifolio/images/SamsungParts.png"
 	   },
-    
-    {
-        "name": "Website Design",
-        "description": "Design de um website como parte de um concurso freelancer",
-        "image": "images/cbdoil1.png",
-        "link": "https://pedddro.github.io/portifolio/images/cbdoil.png"
-	   },
-
-    {
-        "name": "Website Design",
-        "description": "WIP - Design para um site de jardim de infância/escola primária.",
-        "image": "images/design.png",
-        "link": "https://mockupr.com/mu/nxlg8350/website-design-for-childcarekindergarten"
-	   },
-    {
-        "name": "Logo",
-        "description": "Ideia de logo e nome para uma startup de videos",
-        "image": "images/logo4.png",
-        "link": "https://pedddro.github.io/portifolio/images/logo4.png"
-	   },
-
-    {
-        "name": "Design de logotipo para aplicativo de pesquisa / quiz",
-        "description": "Design de logotipo como parte de um concurso freelancer.",
-        "image": "images/pollsy.png",
-        "link": "https://pedddro.github.io/portifolio/images/pollsy.png"
-	   },
-    {
-        "name": "Dashboard Design",
-        "description": "Dashboard projetado para uma empresa da Arábia Saudita como parte de um concurso freelancer.",
-        "image": "images/scoreboard.png",
-        "link": "https://pedddro.github.io/portifolio/images/scoreboard.png"
-	   },
-
     {
         "name": "Ionic app UI",
         "description": "Usando o Ionic creator eu trabalhei no design UI dos aplicativos da Bits Games.",

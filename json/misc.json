@@ -20,16 +20,9 @@
         "image": "images/q-loans-final.png",
         "link": "https://pedddro.github.io/portifolio/images/q-loans-final.png"
 	   },
-    
-    {
-        "name": "WIP - Ecommerce Landing Page",
-        "description": "Design de landing page responsiva para ecommerce",
-        "image": "images/ecommerce2.png",
-        "link": "https://codepen.io/pedro_/full/aboNqPe"
-	   },
 
     {
-        "name": "Bootstrap + Swiper Slider Responsive Landing Page",
+        "name": "Bootstrap Responsive Login Landing Page",
         "description": "Tela de boas vinda usando Boostrap + Swiper Slider",
         "image": "images/bootstrap1.png",
         "link": "https://codepen.io/pedro_/full/mZojgq"
@@ -40,57 +33,11 @@
         "image": "images/smoothie.png",
         "link": "https://pedddro.github.io/smoothie/"
 	   },
-    {
-        "name": "Crypto Exchange Mockup",
-        "description": "Design de uma exchange crypto com interface limpa e calculadora embutida.",
-        "image": "images/exchange.png",
-        "link": "https://dribbble.com/shots/6615970-Crypto-Exchange-Mockup"
-	   },
 
     {
         "name": "WIP - Website em formato timeline sobre front end",
         "description": "Usando o <a href='https://codepen.io/ygc/pen/AXzVya'>fork</a> e informações de <a href='https://roadmap.sh/frontend'> https://roadmap.sh/frontend</a>",
         "image": "images/timeline.png",
         "link": "https://pedddro.github.io/timeline"
-	   },
-    {
-        "name": "Amazon Dark Mode Mobile",
-        "description": "Interação simples em design de modo noturno de uma página da amazon",
-        "image": "images/Amazon-dark-mode.png",
-        "link": "https://pedddro.github.io/portifolio/images/Amazon-dark-mode.png"
-	   },
-    {
-        "name": "Material Design Lite Template para Blog",
-        "description": "Modelo de blog criado usando o Framework Material Design Lite",
-        "image": "images/mdltemplate.png",
-        "link": "https://third-daughter-1.glitch.me"
-	   },
-
-    {
-        "name": "WIP - Crypto Wallet Concept",
-        "description": "Mockup .fig de uma carteira crypto.",
-        "image": "images/xbgwallet.png",
-        "link": "https://www.figma.com/file/GwKAuQ2s3KZja1krnlJbyHlG/xbg-wallet?node-id=0%3A1"
-	   },
-
-    {
-        "name": "Website redesign idea",
-        "description": "Projetei uma versão em modo noturno de um popular site de notícias sobre crypto",
-        "image": "images/coindesk.png",
-        "link": "https://pedddro.github.io/portifolio/images/coindesk.png"
-            },
-    {
-        "name": "Lunacy (Sketch) Uber remake",
-        "description": "Remake do site do Uber",
-        "image": "images/uber.png",
-        "link": "https://sketch.the.ripper.graphics/AgeFJw/uber "
-            }
-    ,
-    {
-        "name": "Logo #3",
-        "description": "Logomarca da Blue Leads, uma empresa de consultoria financeira.",
-        "image": "images/logo3.jpg",
-        "link": "http://www.blueleads.com.br/"
-            }
-
+	   }
 ]
