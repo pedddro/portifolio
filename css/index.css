@@ -11,6 +11,8 @@ a {
     color: #5a59ff;
 }
 
+
+
 .chip {
     border-radius: 0px;
     font-family: 'Inter', 'Libre Franklin', sans-serif;    
@@ -175,7 +177,7 @@ a {
     #profileImage {
         height: 125px;
         width: 125px;
-        margin-top: calc(30%);
+        margin-top: 50px!important;
     }
 }
 
@@ -261,6 +263,15 @@ a {
 @media only screen and (max-width: 600px) {
     #portfolioItemContainerMisc {
         margin: 1px;
+    }
+}
+
+@media only screen and (max-width: 391px) {
+    #profileColumn ul > li {
+        margin: 10px 0px 10px 0px;
+    }
+    #profileColumn span.badge {
+        margin: auto;
     }
 }
 
