@@ -1,0 +1,43 @@
+[
+
+    {
+        "name": "Design para um template de shopify",
+        "description": "Design para um template de shopify",
+        "image": "images/lipov5landing.png",
+        "link": "https://pedddro.github.io/portifolio/images/lipov5.png"
+	   },
+    
+        {
+        "name": "Ecommerce Web App UI Design",
+        "description": "Design de landing page mobile para ecommerce como parte de um concurso freelancer",
+        "image": "images/mixtiles-webapp.png",
+        "link": "https://pedddro.github.io/portifolio/images/mixtiles-webapp.png"
+	   },
+    
+    {
+        "name": "Loan App UI",
+        "description": "Design de landing page mobile como parte de um concurso freelancer",
+        "image": "images/q-loans-final.png",
+        "link": "https://pedddro.github.io/portifolio/images/q-loans-final.png"
+	   },
+
+    {
+        "name": "Bootstrap Responsive Login Landing Page",
+        "description": "Tela de boas vinda usando Boostrap + Swiper Slider",
+        "image": "images/bootstrap1.png",
+        "link": "https://codepen.io/pedro_/full/mZojgq"
+	   },
+    {
+        "name": "WIP - Smoothie Website",
+        "description": "Implementação do <a href='https://dribbble.com/shots/6624645-Smoothie-Store-Homepage-Concept'/> Design </a> usando sequence.js",
+        "image": "images/smoothie.png",
+        "link": "https://pedddro.github.io/smoothie/"
+	   },
+
+    {
+        "name": "WIP - Website em formato timeline sobre front end",
+        "description": "Usando o <a href='https://codepen.io/ygc/pen/AXzVya'>fork</a> e informações de <a href='https://roadmap.sh/frontend'> https://roadmap.sh/frontend</a>",
+        "image": "images/timeline.png",
+        "link": "https://pedddro.github.io/timeline"
+	   }
+]
