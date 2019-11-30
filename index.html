@@ -214,13 +214,13 @@
     </div>
 
     <!-- Portifolio column end -->
-    <script>
-        n = new Date();
-        y = n.getFullYear();
-        m = n.getMonth() + 1;
-        d = n.getDate();
-        document.getElementById("demo").innerHTML = d + "/" + m + "/" + y;
-    </script>
+      <script type = "text/JavaScript" src = "https://MomentJS.com/downloads/moment-with-locales.js"></script>   
+  <script type = "text/JavaScript">
+                        var a = moment.locale("pt-br");
+               var c = moment().format("LLLL");
+         document.getElementById("demo").innerHTML = c;
+</script>
+
 </body>
 
 </html>
