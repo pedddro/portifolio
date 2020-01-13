@@ -62,7 +62,7 @@
         });
     </script>
     
-    <script>
+    <script async>
         $(document).ready(function() {
             $(".btnNav").click(function() {
                 $(".nav").remove();
@@ -224,7 +224,7 @@
 
     <!-- Portifolio column end -->
       <script type="text/JavaScript" src="https://MomentJS.com/downloads/moment-with-locales.js" defer></script>   
-  <script type = "text/JavaScript">
+  <script type = "text/JavaScript" defer>
                         var a = moment.locale("pt-br");
                var c = moment().format("LLLL");
          document.getElementById("demo").innerHTML = c;
