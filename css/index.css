@@ -2,8 +2,8 @@
 
 html,
 body {
-    width: 100%;
-    height: 100%;
+    width: 100%!important;
+    height: 100%!important;
     font-family: 'Inter', 'Libre Franklin', sans-serif;
 }
 
@@ -309,4 +309,14 @@ small {
 
 .black {
     color: black!important;
+}
+
+.card.medium {
+    height: 300px;
+    border-radius: 6%!important;
+}
+
+.card {
+    height: 300px;
+    border-radius: 6%!important;
 }
