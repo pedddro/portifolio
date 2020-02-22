@@ -187,10 +187,28 @@
                     </section>
                 </div>
                 <!-- Replace the email address below with your own -->
-                <a id="contactButton" class="waves-effect waves-grey btn-flat" href="mailto:pedro.dn@outlook.com">
+                                <a href="#modal1" id="contactButton" class="waves-effect waves-grey btn-flat modal-trigger">
                     <p>Get in touch</p>
                 </a>
             </div>
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+   <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button id="contactButton" class="waves-effect waves-grey btn-flat center-align" type="submit">Send</button>
+  </p>
+</form>
+  </div>
+            
             <!-- Portifolio column -->
             <div id="portfolioColumn" class="col s12 m12 l8">
                 <div id="portfolioTitle">
@@ -222,6 +240,11 @@
  </footer>
    
     <!-- Portifolio column end -->
+          <script>
+  $(document).ready(function(){
+    $('.modal').modal();
+  });
+</script>
       <script type = "text/JavaScript" src = "https://MomentJS.com/downloads/moment-with-locales.js"></script>   
   <script type = "text/JavaScript">
                         var a = moment.locale("en");
