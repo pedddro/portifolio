@@ -320,3 +320,8 @@ small {
     height: 300px;
     border-radius: 6%!important;
 }    
+.anim {
+    width: 6%;
+    height: 6%;
+    margin: auto;
+}

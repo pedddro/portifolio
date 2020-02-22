@@ -46,7 +46,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" async></script>
 
     <!-- Materialize JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js" defer></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-110565948-1" defer></script>
@@ -186,10 +186,29 @@
                     </section>
                 </div>
                 <!-- Replace the email address below with your own -->
-                <a id="contactButton" class="waves-effect waves-grey btn-flat" href="mailto:pedro.dn@outlook.com">
+                <a href="#modal1" id="contactButton" class="waves-effect waves-grey btn-flat modal-trigger">
                     <p>Entre em contato</p>
                 </a>
             </div>
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+   <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Seu nome: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button id="contactButton" class="waves-effect waves-grey btn-flat center-align" type="submit">Enviar</button>
+  </p>
+</form>
+  </div>
+
+            
             <!-- Portifolio column -->
             <div id="portfolioColumn" class="col s12 m12 l8">
                 <div id="portfolioTitle">
@@ -216,19 +235,34 @@
         </div>
     </div>
     
+
+    
+</br>
  <footer class="center">
-     Copyright @ 2020 - All rights Reserved <i class="material-icons"><a href="http://pedddro.github.io/portifolio/en.html">public</a></i>
+     Copyright @ 2020 - All rights Reserved 
+     </br>
+     Made with<div class="anim">    
+<lottie-player
+    src="https://assets2.lottiefiles.com/datafiles/r4svAEpkQFrmcdIT0N3sEnH7D72XDnuPcEfHteYT/Twitter Favorite Heart.json"  background="transparent"  speed="1"  style="width: 10; height: 10;" hover autoplay >
+</lottie-player>
+    </div>
  </footer>
 </br>
     
 
     <!-- Portifolio column end -->
-      <script type="text/JavaScript" src="https://MomentJS.com/downloads/moment-with-locales.js"></script>   
+     <script>
+  $(document).ready(function(){
+    $('.modal').modal();
+  });
+</script>
+      <script type="text/JavaScript" src="https://MomentJS.com/downloads/moment-with-locales.js"></script> 
   <script type = "text/JavaScript">
                         var a = moment.locale("pt-br");
                var c = moment().format("LLLL");
          document.getElementById("demo").innerHTML = c;
 </script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 </body>
 
