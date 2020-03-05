@@ -1,0 +1,327 @@
+@import url('https://rsms.me/inter/inter.css');
+
+html,
+body {
+    width: 100%!important;
+    height: 100%!important;
+    font-family: 'Inter', 'Libre Franklin', sans-serif;
+}
+
+a {
+    color: #5a59ff;
+}
+
+
+
+.chip {
+    border-radius: 0px;
+    font-family: 'Inter', 'Libre Franklin', sans-serif;    
+    background-color: white;
+    border: 1px solid gray;
+}
+
+.navTwo {
+    margin: auto;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+    position: inherit;
+    max-height: 100px;
+    height: 60px;
+    padding: 10px;
+}
+
+.nav {
+    display: block;
+    background-color: white;
+    margin: auto;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 30px;
+    color: black;
+    background: white;
+    height: 70px;
+    padding: 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.nav:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.nav #contactButton {
+    margin: auto;
+    color: white;
+    background: orange!important;
+    border: orange;
+}
+
+/* Social Links */
+
+#socialLinkSection {
+    margin-top: 3px;
+    margin-bottom: 8px;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#socialLinkContent {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.links {
+    margin: 0 20px 0 20px;
+    display: inline-block;
+    font-size: 16px;
+    color: #212121;
+    border-radius: 3px;
+    padding: 5px 10px 5px 10px;
+}
+
+.links:hover {
+    background-color: lightgrey;
+}
+
+
+/* Profile Image */
+
+#profileImage {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: 10% !important;
+}
+
+/* The various Texts */
+
+#heroName {
+    font-size: 2.2rem;
+}
+
+#description {
+    font-size: 1.3rem;
+}
+
+#portfolioTitle {
+    margin-left: 8px;
+}
+
+#portfolioText,
+#portfolioTextCenter {
+    margin-top: 0px;
+    margin-bottom: -30px;
+    font-weight: 500;
+    font-size: 2.2rem;
+}
+
+#portfolioTextCenter {
+    text-align: center;
+    margin: 1%
+}
+
+#firstCategoryText {
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+#portfolioColumn {
+    padding: 10px;
+}
+
+/* Cards */
+.card-main-image,
+.card-image {
+    border-top-left-radius: 2px !important;
+    border-top-right-radius: 2px !important;
+}
+
+.card {
+    border-radius: 2px;
+}
+
+.card-content {
+    border-bottom-left-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;
+}
+
+/* Breakpoint resizing */
+@media only screen and (max-width: 1040px) {
+    .nav #contactButton {
+        margin: 35px 30px 10px 10px;
+    }
+}
+
+@media only screen and (max-width: 1260px) {
+    #portfolioText {
+        font-size: 2rem;
+        margin-bottom: -20px;
+    }
+
+    #firstCategoryText {
+        font-size: 1.2rem;
+    }
+
+    #heroName {
+        font-size: 2.0rem;
+    }
+
+    #description {
+        font-size: 1.1rem;
+    }
+
+    #profileImage {
+        height: 125px;
+        width: 125px;
+        margin-top: 50px!important;
+    }
+}
+
+@media only screen and (max-width: 940px) {
+    .nav #contactButton {
+        display: none;
+    }
+
+    .navTwo {
+        margin-bottom: 3rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .nav {
+        height: 80px;
+        font-size: 1.3rem;
+    }
+
+    #contactButton {
+        margin: auto
+    }
+
+    #profileImage {
+        margin-top: calc(10%);
+    }
+
+    #portfolioTitle {
+        text-align: center;
+    }
+
+    #portfolioColumn {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+}
+
+#contactButton {
+    border: 2px solid black;
+    font-weight: 600;
+    color: black;
+    margin-top: 15px;
+}
+
+#contactButton p {
+    margin: 0px;
+    margin-top: -1px;
+}
+
+#contactButton:hover {
+    color: white;
+    background-color: black;
+}
+
+#lastchip {
+    display: none;
+}
+
+.underline {
+    margin: 0.1rem;
+    box-shadow: inset 0 -0.4rem #5a59ff, inset 0 0 white;
+
+}
+
+.underline:hover {}
+
+
+.btnNav {
+    background: white;
+}
+
+.btnNav:hover {
+    background: red;
+}
+
+#portfolioItemContainerMisc {
+    padding: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #portfolioItemContainerMisc {
+        margin: 1px;
+    }
+}
+
+@media only screen and (max-width: 391px) {
+    #profileColumn ul > li {
+        margin: 10px 0px 10px 0px;
+    }
+    #profileColumn span.badge {
+        margin: auto;
+    }
+}
+
+/* Amazing old css tag for text-heavy websites */ 
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #5a59ff;
+}
+
+::selection {
+  color: white;
+  background: #5a59ff;
+}
+
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}
+li {
+    margin: 0.5em;
+}
+
+
+
+small {
+    font-size:xx-small;
+}
+
+.x-small {
+   font-size: small;
+}
+
+.badge {
+    color: white!important;
+}
+
+.black {
+    color: black!important;
+}
+
+.card.medium {
+    height: 300px;
+    border-radius: 6%!important;
+}
+
+.card {
+    height: 300px;
+    border-radius: 6%!important;
+}    
+.anim {
+    width: 6%;
+    height: 6%;
+    margin: auto;
+}
