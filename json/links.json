@@ -1,5 +1,17 @@
 [
     {
+        "name": "Freelancer.com",
+        "color": "blue",
+        "icon": "briefcase",
+        "url": "https://www.freelancer.com/u/pedrodornelles"
+	},
+    {
+        "name": "Upwork",
+        "color": "green",
+        "icon": "briefcase",
+        "url": "https://www.upwork.com/freelancers/~0163cebd1680af586f"
+	},
+    {
         "name": "Github",
         "color": "black",
         "icon": "github-circle",
@@ -10,12 +22,6 @@
         "color": "pink",
         "icon": "dribbble",
         "url": "https://dribbble.com/pedddro"
-	},
-    {
-        "name": "Transifex",
-        "color": "blue",
-        "icon": "google-translate",
-        "url": "https://www.transifex.com/user/profile/pedrodornelles/"
 	},
     {
         "name": "Codepen",
