@@ -51,7 +51,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" async></script>
 
     <!-- Materialize JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js" async></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script src="https://www.googletagmanager.com/gtag/js?id=UA-110565948-1" defer></script>
@@ -233,12 +233,13 @@
         var a = moment.locale("pt-br");
                var c = moment().format("LLLL");
          document.getElementById("demo").innerHTML = c;
-</script><!-- The core Firebase JS SDK is always required and must be listed first -->
-    <script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-app.js"></script>
+</script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <!--script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-app.js"></script>
 
     <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
-    <script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-analytics.js"></script>
+    <!-- script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-analytics.js"></script>
 
     <script>
         // Your web app's Firebase configuration
@@ -256,6 +257,9 @@
         firebase.initializeApp(firebaseConfig);
         firebase.analytics();
     </script>
+    <!-- lazy load -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.0/lazysizes.min.js" async></script>
+    <!-- End lazy load -->
 
 </body>
 
