@@ -1,6 +1,25 @@
 [
+    {
+        "name": "Speed Optimization Developer",
+        "description": "I'm currently working as Speed Optimization Developer. Mainly Wordpress websites, including Core Web Vitals Optimization and Pagespeed. You can visit <a href='https://wpalpha.io/'> WP Alpha </a> for more info.",
+        "image": "images/Home-WpAlpha-wpalpha.io.png",
+        "link": "https://www.upwork.com/fl/pagespeed?viewMode=1&s=1110580750267699200"
+        	   },
+    {
+        "name": "Designer",
+        "description": "Worked on the biggest brazilian dating site as part of a project(NDA), as a Designer + building my design. </br> <a href='images/Web1366.png'/> Blurred File -> </a>",
+        "image": "images/Web1366.png",
+        "link": "https://www.upwork.com/jobs/~0143e0582cc44a4784"
+        	   },
+
+    {
+        "name": "Website Design - Elementor",
+        "description": "Design + Build of a recent website(WIP)",
+        "image": "images/flairdev_com.png",
+        "link": "images/flairdev_com.png"
+	   },
  {
-        "name": "Website Design for a salon",
+        "name": "Website Design",
         "description": "Design for a salon from UAE using Elementor",
         "image": "images/smarthairways.com.png",
         "link": "https://smarthairways.com/"
